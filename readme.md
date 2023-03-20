@@ -9,5 +9,5 @@ you could start the game by clicking
 main.py or run main.py on some IDEs.
 
 <img src="https://user-images.githubusercontent.com/41234182/226311778-a5e962f1-b771-4b5e-8f40-ab8ea779c487.png" alt="Introduction Scene"> <img src="https://user-images.githubusercontent.com/41234182/226312720-0ab12028-6be2-4dd4-9854-e63748e980b2.png" alt="Menu Scene">
-          
 
+<img src="https://user-images.githubusercontent.com/41234182/226324068-db63fb2f-8ec0-4324-bab4-7f39ad18490f.png" alt="Play Scene">
