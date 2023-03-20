@@ -146,12 +146,6 @@ class Level(pyghelpers.Scene):
         if self.playing_state == Level.STATUS_PLAYING:
             self.oPlayer.handleEvents(keyPressedList)
 
-        if keyPressedList[K_p]:
-            if self.playing_state == Level.STATUS_PLAYING:
-                self.playing_state = Level.STATUS_PENDING
-            elif self.playing_state == Level.STATUS_PENDING:
-                self.playing_state = Level.STATUS_PLAYING
-
 
     def reset(self):
         self.playing_state = Level.STATUS_PENDING
