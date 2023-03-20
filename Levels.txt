@@ -1,0 +1,320 @@
+
+
+Level 1 - The King's Parade
+296, 446
+10
+3.0
+175, -55, 3, red car
+419, -55, 3, red car
+
+3.5
+175, -55, 3, yellow car
+419, -55, 3, yellow car
+
+4.0
+175, -55, 3, green car
+419, -55, 3, green car
+
+6.0
+280, -55, 3, red car
+313, -55, 3, red car
+
+6.2
+280, -55, 3, red car
+313, -55, 3, red car
+
+6.4
+280, -55, 3, red car
+313, -55, 3, red car
+
+6.6
+280, -55, 3, red car
+313, -55, 3, red car
+
+6.8
+280, -55, 3, red car
+313, -55, 3, red car
+
+7.0
+280, -55, 3, red car
+313, -55, 3, red car
+
+10.0
+175, -55, 3, blue car
+209, -55, 3, blue car
+
+10.2
+175, -55, 3, blue car
+209, -55, 3, blue car
+
+10.4
+175, -55, 3, blue car
+209, -55, 3, blue car
+
+10.6
+175, -55, 3, blue car
+209, -55, 3, blue car
+
+10.8
+175, -55, 3, blue car
+209, -55, 3, blue car
+
+11.0
+175, -55, 3, blue car
+209, -55, 3, blue car
+
+11.2
+175, -55, 3, blue car
+209, -55, 3, blue car
+313, -55, 3, green car
+347, -55, 3, green car
+
+11.4
+175, -55, 3, blue car
+209, -55, 3, blue car
+313, -55, 3, green car
+347, -55, 3, green car
+
+11.6
+175, -55, 3, blue car
+209, -55, 3, blue car
+313, -55, 3, green car
+347, -55, 3, green car
+
+11.8
+313, -55, 3, green car
+347, -55, 3, green car
+
+12.0
+313, -55, 3, green car
+347, -55, 3, green car
+
+12.2
+313, -55, 3, green car
+347, -55, 3, green car
+
+12.6
+245, -55, 3, green car
+280, -55, 3, green car
+
+12.8
+245, -55, 3, green car
+280, -55, 3, green car
+
+13.0
+245, -55, 3, green car
+280, -55, 3, green car
+
+13.2
+245, -55, 3, green car
+280, -55, 3, green car
+383, -55, 3, blue car
+419, -55, 3, blue car
+
+13.4
+383, -55, 3, blue car
+419, -55, 3, blue car
+
+18.0
+
+
+Level 2 - Diagonal Crossing
+296, 595
+10
+3.0
+175, -55, 3, red car
+419, -55, 3, red car
+
+3.5
+175, -55, 3, yellow car
+419, -55, 3, yellow car
+
+4.0
+175, -55, 3, green car
+419, -55, 3, green car
+
+6.0
+280, -55, 3, random
+313, -55, 3, random
+
+6.2
+245, -55, 3, random
+347, -55, 3, random
+
+6.4
+209, -55, 3, random
+383, -55, 3, random
+
+9.0
+175, -55, 3, random
+419, -55, 3, random
+
+9.4
+209, -55, 3, random
+383, -55, 3, random
+
+9.8
+245, -55, 3, random
+347, -55, 3, random
+
+12.0
+280, -55, 3, random
+313, -55, 3, random
+
+12.2
+245, -55, 3, random
+347, -55, 3, random
+
+12.4
+209, -55, 3, random
+383, -55, 3, random
+
+15.0
+175, -55, 3, random
+
+15.2
+209, -55, 3, random
+
+15.4
+245, -55, 3, random
+
+15.6
+280, -55, 3, random
+
+15.8
+313, -55, 3, random
+
+18.0
+419, -55, 3, random
+
+18.2
+383, -55, 3, random
+
+18.4
+347, -55, 3, random
+
+18.6
+313, -55, 3, random
+
+18.8
+280, -55, 3, random
+
+19.0
+245, -55, 3, random
+
+19.2
+209, -55, 3, random
+
+22.0
+175, -55, 3, random
+419, -55, 3, random
+
+22.2
+209, -55, 3, random
+383, -55, 3, random
+
+22.4
+245, -55, 3, random
+347, -55, 3, random
+
+27.0
+
+
+Level 3 - Impossible
+296, 446
+10
+3.0
+175, -55, 3, red car
+419, -55, 3, red car
+
+3.5
+175, -55, 3, yellow car
+419, -55, 3, yellow car
+
+4.0
+175, -55, 3, green car
+419, -55, 3, green car
+
+6.0
+175, -55, 10, red car
+419, -55, 10, red car
+175, 650, -20, red car
+419, 650, -20, red car
+
+8.0
+245, -55, 10, red car
+347, -55, 10, red car
+245, 650, -20, red car
+347, 650, -20, red car
+
+11.0
+280, -55, 10, green car
+313, -55, 10, green car
+280, 650, -20, green car
+313, 650, -20, green car
+
+14.0
+175, -55, 10, red car
+
+14.6
+209, -55, 11, yellow car
+
+15.2
+245, -55, 12, blue car
+
+15.8
+280, -55, 13, green car
+
+16.3
+313, -55, 14, red car
+
+16.8
+347, -55, 15, yellow car
+
+17.3
+383, -55, 16, blue car
+
+17.8
+419, -55, 17, green car
+
+18.2
+383, 650, -18, red car
+383, -55, 18, yellow car
+
+19.0
+347, 650, -17, yellow car
+347, -55, 17, green car
+
+19.8
+313, 650, -16, blue car
+313, -55, 16, red car
+
+20.6
+280, 650, -15, green car
+280, -55, 15, blue car
+
+21.4
+245, 650, -14, red car
+245, -55, 14, yellow car
+
+22.2
+209, 650, -13, yellow car
+209, -55, 13, green car
+
+23.0
+175, 650, -12, blue car
+175, -55, 12, red car
+
+25.0
+175, -55, -5, red car
+209, 650, -15, red car
+245, -55, -5, blue car
+280, 650, -15, red car
+313, -55, -5, blue car
+347, 650, -15, green car
+383, -55, -5, green car
+419, 650, -15, red car
+
+32.0
+
+

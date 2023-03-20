@@ -1,0 +1,3 @@
+A car evading game
+10 highest distance will be recorded
+

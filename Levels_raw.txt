@@ -1,0 +1,344 @@
+# Format for levels
+# First line is level name
+# Second line is starting location of players
+# Next lines are enemies with format (location, time_created, speed, which car)
+# Double spaces separate each level
+# Hashtag is ignored
+# END means end of game -> the player wins
+# Level name = FINISH means there is no level anymore
+# Level format idea
+# Level has certain number of waves
+# Level 1 only has one wave
+# Each wave stays around 15 seconds
+# There are also types of challenge
+# Each wave could consist of multiple challenges
+# Challenge type:
+# 1. Double collision, where two pair of cars collide symmetrically
+# 2. Diagonal, where cars appear continuously and orderly from left to right or the inverse
+# 3. Orderly collision, where multiple single pair of cars appear to collide orderly
+# 4. Parade, where multiple cars try to protect a car in the middle
+# 5. Tooth, where cars come from front and back simultaneously at zigzag
+# 6. Trap triangle, where there is left decreasing diagonal from front and right increasing diagonal from back
+# 7. Incomplete Diagonal, like diagonal but there is a hole at the last part
+# 8. Incomplete Orderly Collision
+# From easy to difficult
+
+
+Level 1 - The King's Parade
+midbottom
+10
+3.0
+x1, yTop, 3, red car
+x8, yTop, 3, red car
+
+3.5
+x1, yTop, 3, yellow car
+x8, yTop, 3, yellow car
+
+4.0
+x1, yTop, 3, green car
+x8, yTop, 3, green car
+
+6.0
+x4, yTop, 3, red car
+x5, yTop, 3, red car
+
+6.2
+x4, yTop, 3, red car
+x5, yTop, 3, red car
+
+6.4
+x4, yTop, 3, red car
+x5, yTop, 3, red car
+
+6.6
+x4, yTop, 3, red car
+x5, yTop, 3, red car
+
+6.8
+x4, yTop, 3, red car
+x5, yTop, 3, red car
+
+7.0
+x4, yTop, 3, red car
+x5, yTop, 3, red car
+
+10.0
+x1, yTop, 3, blue car
+x2, yTop, 3, blue car
+
+10.2
+x1, yTop, 3, blue car
+x2, yTop, 3, blue car
+
+10.4
+x1, yTop, 3, blue car
+x2, yTop, 3, blue car
+
+10.6
+x1, yTop, 3, blue car
+x2, yTop, 3, blue car
+
+10.8
+x1, yTop, 3, blue car
+x2, yTop, 3, blue car
+
+11.0
+x1, yTop, 3, blue car
+x2, yTop, 3, blue car
+
+11.2
+x1, yTop, 3, blue car
+x2, yTop, 3, blue car
+x5, yTop, 3, green car
+x6, yTop, 3, green car
+
+11.4
+x1, yTop, 3, blue car
+x2, yTop, 3, blue car
+x5, yTop, 3, green car
+x6, yTop, 3, green car
+
+11.6
+x1, yTop, 3, blue car
+x2, yTop, 3, blue car
+x5, yTop, 3, green car
+x6, yTop, 3, green car
+
+11.8
+x5, yTop, 3, green car
+x6, yTop, 3, green car
+
+12.0
+x5, yTop, 3, green car
+x6, yTop, 3, green car
+
+12.2
+x5, yTop, 3, green car
+x6, yTop, 3, green car
+
+12.6
+x3, yTop, 3, green car
+x4, yTop, 3, green car
+
+12.8
+x3, yTop, 3, green car
+x4, yTop, 3, green car
+
+13.0
+x3, yTop, 3, green car
+x4, yTop, 3, green car
+
+13.2
+x3, yTop, 3, green car
+x4, yTop, 3, green car
+x7, yTop, 3, blue car
+x8, yTop, 3, blue car
+
+13.4
+x7, yTop, 3, blue car
+x8, yTop, 3, blue car
+
+18.0
+
+
+Level 2 - Diagonal Crossing
+bottom
+10
+3.0
+x1, yTop, 3, red car
+x8, yTop, 3, red car
+
+3.5
+x1, yTop, 3, yellow car
+x8, yTop, 3, yellow car
+
+4.0
+x1, yTop, 3, green car
+x8, yTop, 3, green car
+
+6.0
+x4, yTop, 3, random
+x5, yTop, 3, random
+
+6.2
+x3, yTop, 3, random
+x6, yTop, 3, random
+
+6.4
+x2, yTop, 3, random
+x7, yTop, 3, random
+
+9.0
+x1, yTop, 3, random
+x8, yTop, 3, random
+
+9.4
+x2, yTop, 3, random
+x7, yTop, 3, random
+
+9.8
+x3, yTop, 3, random
+x6, yTop, 3, random
+
+12.0
+x4, yTop, 3, random
+x5, yTop, 3, random
+
+12.2
+x3, yTop, 3, random
+x6, yTop, 3, random
+
+12.4
+x2, yTop, 3, random
+x7, yTop, 3, random
+
+15.0
+x1, yTop, 3, random
+
+15.2
+x2, yTop, 3, random
+
+15.4
+x3, yTop, 3, random
+
+15.6
+x4, yTop, 3, random
+
+15.8
+x5, yTop, 3, random
+
+18.0
+x8, yTop, 3, random
+
+18.2
+x7, yTop, 3, random
+
+18.4
+x6, yTop, 3, random
+
+18.6
+x5, yTop, 3, random
+
+18.8
+x4, yTop, 3, random
+
+19.0
+x3, yTop, 3, random
+
+19.2
+x2, yTop, 3, random
+
+22.0
+x1, yTop, 3, random
+x8, yTop, 3, random
+
+22.2
+x2, yTop, 3, random
+x7, yTop, 3, random
+
+22.4
+x3, yTop, 3, random
+x6, yTop, 3, random
+
+27.0
+
+
+Level 3 - Impossible
+midbottom
+10
+3.0
+x1, yTop, 3, red car
+x8, yTop, 3, red car
+
+3.5
+x1, yTop, 3, yellow car
+x8, yTop, 3, yellow car
+
+4.0
+x1, yTop, 3, green car
+x8, yTop, 3, green car
+
+6.0
+x1, yTop, 10, red car
+x8, yTop, 10, red car
+x1, yBot, -20, red car
+x8, yBot, -20, red car
+
+8.0
+x3, yTop, 10, red car
+x6, yTop, 10, red car
+x3, yBot, -20, red car
+x6, yBot, -20, red car
+
+11.0
+x4, yTop, 10, green car
+x5, yTop, 10, green car
+x4, yBot, -20, green car
+x5, yBot, -20, green car
+
+14.0
+x1, yTop, 10, red car
+
+14.6
+x2, yTop, 11, yellow car
+
+15.2
+x3, yTop, 12, blue car
+
+15.8
+x4, yTop, 13, green car
+
+16.3
+x5, yTop, 14, red car
+
+16.8
+x6, yTop, 15, yellow car
+
+17.3
+x7, yTop, 16, blue car
+
+17.8
+x8, yTop, 17, green car
+
+18.2
+x7, yBot, -18, red car
+x7, yTop, 18, yellow car
+
+19.0
+x6, yBot, -17, yellow car
+x6, yTop, 17, green car
+
+19.8
+x5, yBot, -16, blue car
+x5, yTop, 16, red car
+
+20.6
+x4, yBot, -15, green car
+x4, yTop, 15, blue car
+
+21.4
+x3, yBot, -14, red car
+x3, yTop, 14, yellow car
+
+22.2
+x2, yBot, -13, yellow car
+x2, yTop, 13, green car
+
+23.0
+x1, yBot, -12, blue car
+x1, yTop, 12, red car
+
+25.0
+x1, yTop, -5, red car
+x2, yBot, -15, red car
+x3, yTop, -5, blue car
+x4, yBot, -15, red car
+x5, yTop, -5, blue car
+x6, yBot, -15, green car
+x7, yTop, -5, green car
+x8, yBot, -15, red car
+
+32.0
+
+
