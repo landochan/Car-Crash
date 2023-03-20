@@ -8,5 +8,6 @@ Once you have installed pygame module,
 you could start the game by clicking
 main.py or run main.py on some IDEs.
 
-<img src="https://user-images.githubusercontent.com/41234182/226311778-a5e962f1-b771-4b5e-8f40-ab8ea779c487.png" alt="Introduction Scene"> <img src="https://user-images.githubusercontent.com/41234182/226312127-2cb9ac9f-e961-4005-95bd-96dd8bdeb088.png" alt='Menu Scene">
+<img src="https://user-images.githubusercontent.com/41234182/226311778-a5e962f1-b771-4b5e-8f40-ab8ea779c487.png" alt="Introduction Scene"> 
+<img src="https://user-images.githubusercontent.com/41234182/226312127-2cb9ac9f-e961-4005-95bd-96dd8bdeb088.png" alt='Menu Scene">
 
