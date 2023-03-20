@@ -10,5 +10,6 @@ main.py or run main.py on some IDEs.
 
 <img src="https://user-images.githubusercontent.com/41234182/226311778-a5e962f1-b771-4b5e-8f40-ab8ea779c487.png" alt="Introduction Scene"> 
 
-<img src="https://user-images.githubusercontent.com/41234182/226312475-5beaa041-bbb7-4e51-8d25-a1f9319caaef.png" alt='Menu Scene">
+<img src="" alt='Menu Scene">
           
+https://user-images.githubusercontent.com/41234182/226312475-5beaa041-bbb7-4e51-8d25-a1f9319caaef.png
