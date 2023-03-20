@@ -1,3 +1,5 @@
+This source codes is under MIT License.
+
 You need pygame module to run this game.
 
 Once you have installed pygame module,
