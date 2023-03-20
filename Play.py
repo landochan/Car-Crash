@@ -89,7 +89,7 @@ class Play(pyghelpers.Scene):
                 if self.score > self.lowestScore:
                     results = pyghelpers.textYesNoDialog(self.window, (HALFWINDOWWIDTH - 200, 100, 400, 150),
                                                          prompt='Your score %s is a new highscore!\n Go to Highscore panel and record your name!' %self.score,
-                                                         yesButtonText='Go to Highscore Panel', noButtonText='Cancel', backgroundColor=(255, 255, 0))
+                                                         yesButtonText='Save Highscore', noButtonText='Cancel', backgroundColor=(255, 255, 0))
                     if results:
                         self.goToScene(HIGHSCORE_SCENE, [PLAY_SCENE, self.score])
                 self.oNewGameButton.enable()
