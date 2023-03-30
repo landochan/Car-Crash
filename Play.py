@@ -30,7 +30,7 @@ class Play(pyghelpers.Scene):
                                      self.carMaxSpeed + 1)
         self.oCarMgr.setAddRate(1.0)
         self.oNewGameButton = pygwidgets.TextButton(self.window, (20, 70), 'New Game',
-                                                      width=100, height=30)
+                                                      width=100, height=30, enterToActivate=True)
         self.oChangeCarButton = pygwidgets.TextButton(self.window, (20, 110), 'Change Car',
                                                       width=100, height=30)
         self.oMenuButton = pygwidgets.TextButton(self.window, (20, 150), 'Menu',

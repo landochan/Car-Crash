@@ -22,7 +22,7 @@ class Level(pyghelpers.Scene):
         self.oCarMgr = LevelCarMgr(self.window, self.cameraSpeed, self.oPlayer, self.oTimer)
         self.oBackgroundMgr = BackgroundMgr(self.window, self.cameraSpeed, 155)
         self.oStartButton = pygwidgets.TextButton(self.window, (20, 20), 'Start',
-                                                  width=100, height=30)
+                                                  width=100, height=30, enterToActivate=True)
         self.oRetryButton = pygwidgets.TextButton(self.window, (20, 20), 'Retry',
                                                   width=100, height=30)
         self.oChangeCarButton = pygwidgets.TextButton(self.window, (20, 60), 'Change Car',
